@@ -12,7 +12,6 @@ import colectivo.conexion.Factory;
 import colectivo.dao.LineaDao;
 import colectivo.modelo.Linea;
 import colectivo.modelo.Parada;
-import net.datastructures.Entry;
 import net.datastructures.TreeMap;
 import colectivo.dao.ParadaDao;
 

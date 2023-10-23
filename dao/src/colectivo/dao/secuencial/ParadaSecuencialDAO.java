@@ -4,15 +4,11 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Formatter;
 import java.util.FormatterClosedException;
-import java.util.Hashtable;
 import java.util.NoSuchElementException;
 import java.util.ResourceBundle;
 import java.util.Scanner;
 import net.datastructures.TreeMap;
-import colectivo.conexion.Factory;
-import colectivo.dao.LineaDao;
 import colectivo.dao.ParadaDao;
-import colectivo.modelo.Linea;
 import colectivo.modelo.Parada;
 
 public class ParadaSecuencialDAO implements ParadaDao {

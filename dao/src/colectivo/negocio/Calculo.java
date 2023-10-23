@@ -22,6 +22,7 @@ public class Calculo {
 
     private Graph<Parada, Tramo> colectivo;
     private TreeMap<String, Vertex<Parada>> vertices;
+	@SuppressWarnings("unused")
 	private Coordinador coordinador;
 
     public Calculo() {

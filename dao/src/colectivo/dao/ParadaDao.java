@@ -1,10 +1,6 @@
 package colectivo.dao;
 
 import net.datastructures.TreeMap;
-
-import java.util.Hashtable;
-
-import colectivo.modelo.Linea;
 import colectivo.modelo.Parada;
 
 public interface ParadaDao {
